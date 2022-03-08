@@ -19,7 +19,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/CSS3_logo_and_wordmark.svg.png" width="48" height="48" alt="Golang" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/1dec7fd022a0e3017c44b76ec69783a41730f1cc/img/icons8-css3.svg" width="48" height="48" alt="Golang" style="max-width: 100%;">
       </a>
       <br>Css
     </td>
