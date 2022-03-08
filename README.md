@@ -105,7 +105,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/images.png" width="48" height="48" alt="Prometheus" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/cd6af66f4c87af9abf77b52b6f5eabf556f45d6c/img/icons8-azurblau.svg" width="48" height="48" alt="Prometheus" style="max-width: 100%;">
       </a>
       <br>Azure
     </td>
