@@ -8,63 +8,63 @@
     <tbody>
     <tr>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/50c4f88d54558220b16115bfb9b06fa691ac8dac/img/icons8-html-5.svg"
                      width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
             </a>
             <br>HTML
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/1dec7fd022a0e3017c44b76ec69783a41730f1cc/img/icons8-css3.svg"
                      width="48" height="48" alt="Golang" style="max-width: 100%;">
             </a>
             <br>Css
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://getbootstrap.com/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/bootstrap-plain.svg"
                      width="48" height="48" alt="TypeScript" style="max-width: 100%;">
             </a>
             <br>Bootstrap
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://www.php.net/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/615e3085a6bee223b61102a47635688289cc737d/img/icons8-php-logo.svg"
                      width="48" height="48" alt="MySQL" style="max-width: 100%;">
             </a>
             <br>PHP
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://www.joomla.org/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/bfa691664101538319b90724a5bbc9518a53772c/img/joomla.svg"
                      width="48" height="48" alt="Bootstrap" style="max-width: 100%;">
             </a>
             <br>Joomla
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://www.javascript.com/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/javascript-original.svg"
                      width="48" height="48" alt="React" style="max-width: 100%;">
             </a>
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://jquery.com/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/fb32796be0809b0f7c93777dfed1bf03132ca701/img/icons8-jquery.svg"
                      width="48" height="48" alt="JavaScript" style="max-width: 100%;">
             </a>
             <br>Jquery
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://www.mysql.com/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/mysql-original.svg"
                      width="48" height="48" alt="Docker" style="max-width: 100%;">
             </a>
             <br>Mysql
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/csharp-original.svg"
                      width="48" height="48" alt="Jsonnet" data-canonical-src="https://jsonnet.org/img/isologo.svg"
                      style="max-width: 100%;">
@@ -74,63 +74,63 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://dotnet.microsoft.com/en-us/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/NET_Core_Logo.svg.png"
                      width="48" height="48" alt="RHEL" style="max-width: 100%;">
             </a>
             <br>.NET
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://sass-lang.com/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/sass-original.svg"
                      width="48" height="48" alt="Sass" style="max-width: 100%;">
             </a>
             <br>Sass
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://dotnet.microsoft.com/en-us/apps/xamarin">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/91b7158a4b42589a6eabb8dc08bc5e169914aacd/icons8-xamarin.svg"
                      width="48" height="48" alt="Python" style="max-width: 100%;">
             </a>
             <br>Xamarin
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://git-scm.com/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/8165e0ce23f1d55c3a4deb5f2f99e0191732ac50/img/icons8-git.svg"
                      width="48" height="48" alt="Debian" style="max-width: 100%;">
             </a>
             <br>Git
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://docs.microsoft.com/en-us/powershell/">
                 <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg"
                      width="48" height="48" alt="Powershell" style="max-width: 100%;">
             </a>
             <br>Powershell
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://unity.com/pages/unity-pro-buy-now?ds_rl=1295837&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EArGwf6ZhkkiA35gmBYEUE5cxZ-lEjJrVKQQFVcdD2-ODEH0mUgSJl8aAozwEALw_wcB&gclsrc=aw.ds">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/b27c68aa78411ba19d3815ffd0b5bf6934f10667/img/icons8-einheit.svg"
                      width="48" height="48" alt="Grafana" style="max-width: 100%;">
             </a>
             <br>Unity
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiAmpyRBhC-ARIsABs2EAqCXpgArE40vFZshNO5kf31F3p3nlpwvlZdwGlDHscgqejqOONeLWkaAiYlEALw_wcB:G:s&OCID=AID2200190_SEM_Cj0KCQiAmpyRBhC-ARIsABs2EAqCXpgArE40vFZshNO5kf31F3p3nlpwvlZdwGlDHscgqejqOONeLWkaAiYlEALw_wcB:G:s&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAqCXpgArE40vFZshNO5kf31F3p3nlpwvlZdwGlDHscgqejqOONeLWkaAiYlEALw_wcB">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/cd6af66f4c87af9abf77b52b6f5eabf556f45d6c/img/icons8-azurblau.svg"
                      width="48" height="48" alt="Prometheus" style="max-width: 100%;">
             </a>
             <br>Azure
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://atom.io/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/atom-4.svg"
                      width="48" height="48" alt="C#" style="max-width: 100%;">
             </a>
             <br>Atom
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="https://www.blockchain.com/">
                 <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/569-5697661_icons-symbol-blockchain-bitcoin-cash-computer-clipart-block.png"
                      width="48" height="48" alt="Thanos" style="max-width: 100%;">
             </a>
