@@ -37,7 +37,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/Logo_jQuery.svg" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/fb32796be0809b0f7c93777dfed1bf03132ca701/img/icons8-jquery.svg" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
       </a>
       <br>Jquery
     </td>
