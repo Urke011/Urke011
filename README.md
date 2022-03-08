@@ -13,7 +13,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/336-3368860_xamarin-xamarin-forms-logo-png-clipart.png" width="48" height="48" alt="Python" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/91b7158a4b42589a6eabb8dc08bc5e169914aacd/icons8-xamarin.svg" width="48" height="48" alt="Python" style="max-width: 100%;">
       </a>
       <br>Xamarin
     </td>
