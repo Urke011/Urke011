@@ -7,7 +7,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
   <tbody><tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/Urke011/portfolio_imgs/img/atom-4.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
+        <img src="/Urke011/portfolio_imgs/blob/main/img/atom-4.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
       </a>
       <br>C#&nbsp;(Core)
     </td>
