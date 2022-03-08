@@ -7,55 +7,55 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
   <tbody><tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/Urke011/portfolio_imgs/blob/main/img/atom-4.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/atom-4.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
       </a>
       <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/python-original.svg" width="48" height="48" alt="Python" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/336-3368860_xamarin-xamarin-forms-logo-png-clipart.png" width="48" height="48" alt="Python" style="max-width: 100%;">
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/go-flat.svg" width="48" height="48" alt="Golang" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/CSS3_logo_and_wordmark.svg.png" width="48" height="48" alt="Golang" style="max-width: 100%;">
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://camo.githubusercontent.com/8ec11d7cf463a6f03a2b620e75ab697dd8025180a5f15d8ed0f3e0ad397e7cd2/68747470733a2f2f6a736f6e6e65742e6f72672f696d672f69736f6c6f676f2e737667" width="48" height="48" alt="Jsonnet" data-canonical-src="https://jsonnet.org/img/isologo.svg" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/csharp-original.svg" width="48" height="48" alt="Jsonnet" data-canonical-src="https://jsonnet.org/img/isologo.svg" style="max-width: 100%;">
       </a>
       <br>Jsonnet
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/bootstrap-plain.svg" width="48" height="48" alt="TypeScript" style="max-width: 100%;">
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/javascript-original.svg" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/Logo_jQuery.svg" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/react-original.svg" width="48" height="48" alt="React" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/javascript-original.svg" width="48" height="48" alt="React" style="max-width: 100%;">
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/joomla-icon-25.jpg" width="48" height="48" alt="Bootstrap" style="max-width: 100%;">
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/sass-original.svg" width="48" height="48" alt="Sass" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/sass-original.svg" width="48" height="48" alt="Sass" style="max-width: 100%;">
       </a>
       <br>Sass
     </td>
@@ -63,19 +63,19 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/704a3e273b21148a99e1c9372570cd10981b5ce7/img/mysql-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/download.png" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/debian-original.svg" width="48" height="48" alt="Debian" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/download%20(1).png" width="48" height="48" alt="Debian" style="max-width: 100%;">
       </a>
       <br>Debian
     </td>
@@ -93,19 +93,19 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/php%20(1).png" width="48" height="48" alt="MySQL" style="max-width: 100%;">
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/unity-masterbrand-black.png" width="48" height="48" alt="Grafana" style="max-width: 100%;">
       </a>
       <br>Grafana
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/cncf/artwork/raw/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/images.png" width="48" height="48" alt="Prometheus" style="max-width: 100%;">
       </a>
       <br>Prometheus
     </td>
