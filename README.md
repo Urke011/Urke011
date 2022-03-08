@@ -69,7 +69,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/download.png" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/50c4f88d54558220b16115bfb9b06fa691ac8dac/img/icons8-html-5.svg" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
       </a>
       <br>HTML
     </td>
