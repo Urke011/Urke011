@@ -81,7 +81,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/MacroPower/MacroPower/raw/master/img/redhat-original.svg" width="48" height="48" alt="RHEL" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/NET_Core_Logo.svg.png" width="48" height="48" alt="RHEL" style="max-width: 100%;">
       </a>
       <br>RHEL
     </td>
