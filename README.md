@@ -93,7 +93,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/2ab3bd4be551e626818c54b2c8763da6f79928ac/img/new-php-logo.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/615e3085a6bee223b61102a47635688289cc737d/img/icons8-php-logo.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
       </a>
       <br>PHP
     </td>
