@@ -111,7 +111,7 @@ I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stoc
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/Urke011/portfolio_imgs/main/img/569-5697661_icons-symbol-blockchain-bitcoin-cash-computer-clipart-block.png" width="48" height="48" alt="Thanos" style="max-width: 100%;">
       </a>
       <br>Thanos
     </td>
