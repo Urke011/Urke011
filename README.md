@@ -6,7 +6,7 @@
 <li><g-emoji class="g-emoji" alias="office" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png">🏢</g-emoji> &nbsp;I'm currently working an OOP Poker in JavaScript <strong><a href="https://github.com/8451" title="84.51° Github Home">84.51°</a></strong></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;I’m learning C#<strong>Go</strong></li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> &nbsp;I like to talk about <strong>Joomla development</strong></li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> &nbsp;Ask me anything on my <strong><a href="https://github.com/MacroPower/MacroPower/issues" title="MacroPower/issues">issues page</a></strong></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> &nbsp;Ask me anything on my <strong><a href="https://github.com/Urke011/Urke011/issues" title="UrosRajkovic/issues">issues page</a></strong></li>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;Connect with me on <strong><a href="https://de.linkedin.com/in/uro%C5%A1-rajkovi%C4%87-1b153211b" title="Uros Rajkovic LinkedIn" rel="nofollow">LinkedIn</a></strong></li>
 </ul>
 
