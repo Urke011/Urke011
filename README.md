@@ -13,6 +13,13 @@
 <p dir="auto">
 <strong>Check out projects below</strong> to know more </strong> about me:</p>
 
+<ul dir="auto">
+<li><img class="emoji" title=":electron:" alt=":electron:" src="https://github.githubassets.com/images/icons/emoji/electron.png" height="20" width="20" align="absmiddle"> <strong><a href="https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/" rel="nofollow">Dev Story by Geektrust</a></strong></li>
+<li><g-emoji class="g-emoji" alias="studio_microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f399.png">🎙️</g-emoji> <strong><a href="https://passionconnect.in/passionstory/vinit-shahdeo" rel="nofollow">My Passion Story by PassionConnect</a></strong></li>
+<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> <strong><a href="https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html" rel="nofollow">Interview with Eat My News</a></strong></li>
+<li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <strong><a href="https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&amp;title=story_of_vinit_shahdeo" rel="nofollow">FAyz Story - From VIT to Postman</a></strong></li>
+</ul>
+
 <h3 dir="auto"><a id="user-content-things-i-code-with" class="anchor" aria-hidden="true" href="#things-i-code-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tools, languages, and other things that I like to work with.</h3>
 
 <table>
