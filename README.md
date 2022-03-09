@@ -16,7 +16,7 @@
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="studio_microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f399.png">🎙️</g-emoji> <strong><a href="https://urke011.github.io/Pig-game/" rel="nofollow">&nbsp;Pig game</a></strong></li>
 <li><img class="emoji" title=":electron:" alt=":electron:" src="https://github.githubassets.com/images/icons/emoji/electron.png" height="20" width="20" align="absmiddle"> <strong><a href="https://urke011.github.io/Guess-my-number/" rel="nofollow">Guess my number</a></strong></li>
-<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> <strong><a href="https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html" rel="nofollow">Interview with Eat My News</a></strong></li>
+<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> <strong><a href="https://github.com/Urke011/MyYoutube" rel="nofollow">My Youtube</a></strong></li>
 <li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <strong><a href="https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&amp;title=story_of_vinit_shahdeo" rel="nofollow">FAyz Story - From VIT to Postman</a></strong></li>
 </ul>
 
