@@ -10,6 +10,17 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;Connect with me on <strong><a href="https://de.linkedin.com/in/uro%C5%A1-rajkovi%C4%87-1b153211b" title="Uros Rajkovic LinkedIn" rel="nofollow">LinkedIn</a></strong></li>
 </ul>
 
+
+<p dir="auto"><strong>About programming</strong></p>
+<p dir="auto">“Programming isn't about what you know; it's about what you can figure out.”  - <strong>Chris Pine</strong></p>
+<p dir="auto">“The only way to learn a new programming language is by writing programs in it.” - <strong>Dennis Ritchie</strong></p>
+
+
+
+<p dir="auto"><strong>When I get stuck with a code</strong></p>
+<p dir="auto">“One of my most productive days was throwing away 1000 lines of code.” - <strong>Ken Thompson</strong></p>
+<p dir="auto">“Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” - <strong>Patrick McKenzie</strong></p>
+
 <p dir="auto">
 <strong>Check out projects below</strong> to know more </strong> about me:</p>
 
